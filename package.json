@@ -25,5 +25,10 @@
   "bugs": {
     "url": "https://github.com/ariutta/rx-json-stream/issues"
   },
-  "homepage": "https://github.com/ariutta/rx-json-stream#readme"
+  "homepage": "https://github.com/ariutta/rx-json-stream#readme",
+  "dependencies": {
+    "JSONStream": "^1.0.7",
+    "rx": "^4.0.7",
+    "rx-node": "^1.0.1"
+  }
 }
