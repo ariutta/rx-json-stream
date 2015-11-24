@@ -1,0 +1,29 @@
+{
+  "name": "rx-json-stream",
+  "version": "1.0.0-alpha.0",
+  "description": "RxJs wrapper around the JSONStream module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ariutta/rx-json-stream.git"
+  },
+  "keywords": [
+    "json",
+    "parse",
+    "stringify",
+    "rx",
+    "rxjs",
+    "stream",
+    "observable",
+    "jsonstream"
+  ],
+  "author": "Anders Riutta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ariutta/rx-json-stream/issues"
+  },
+  "homepage": "https://github.com/ariutta/rx-json-stream#readme"
+}
