@@ -1,6 +1,6 @@
 var JSONStream = require('JSONStream');
 var Rx = require('rx');
-var RxNode = require('rx-node');
+var RxNode = require('rx-node-extra');
 
 var rxJSONStream = {};
 
